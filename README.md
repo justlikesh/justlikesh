@@ -1,7 +1,7 @@
 ## 김승호 <em>Kim Seung Ho</em>
 👨🏻‍💻 Backend Developer & Medical Information Software Engineer
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Backend-Developer-453cc1a8e2ff4c19b37a379f25f2e6b2)
+[![Notion]()
 [![Velog](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@justlikesh/posts)
 
 
