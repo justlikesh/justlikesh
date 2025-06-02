@@ -12,7 +12,6 @@ Welcome, I'm SeungHoKim! 🌟
 
 ## 🎓 Education
 
-- SK planet ASAC 5th (2024.03 - 2024.09, ⌛ 920h)
 - SSAFY (2025.01 - ing)
 
 ## 🔥 Experience
